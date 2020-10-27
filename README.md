@@ -1,4 +1,4 @@
 # Mundo 02 
-Arquivos ".py" do curso de Python
+Curso de Python
 (Continuação do 'Mundo 01')
 Curso em Vídeo
